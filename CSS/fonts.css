@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Platypi';
+    src: url('/Fonts/Platypi/Platypi-Regular.ttf');
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Platypi';
+    src: url('/Fonts/Platypi/Platypi-ExtraBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Platypi';
+    src: url('/Fonts/Platypi/Platypi-Light.ttf');
+    font-weight: 300;
+}
